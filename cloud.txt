@@ -1,0 +1,89 @@
+
+LAB 1: Install Google App Engine. Create hello world app and other
+simple web applications using python/java
+1.Open App engine 
+2.In the left navigation menu go to app engine and then dashboard..create application
+3.Set the region
+4.Resources – Language – Python – Standard
+Open the cloudshell terminal:
+
+Step 1: git clone https://github.com/GoogleCloudPlatform/python-docs-samples
+Step 2: cd python-docs-samples/appengine/standard_python3/hello_world
+Step 3: ls
+Step 4: nano main.py
+New file opens 
+Change the text in the line that shows 
+Step 5 : gcloud app deploy
+Step 6: gcloud app browse
+Then you get a link …click on that !!
+
+LAB 2 : Use GAE launcher to launch the web applications
+
+Step 1 : Install the Google Cloud CLI
+Step 2 : gcloud init
+Choice is 2 :Create a new configuration
+Login with new account
+Go to console
+Create a new project
+Go to App engine in navigation panel
+Type in command :
+Create an application in app engine standard
+Select the same
+Type create application 
+Create the application python as resource and standard 
+Then type 
+
+Step 1: git clone https://github.com/GoogleCloudPlatform/python-docs-samples
+Step 2: cd python-docs-samples/appengine/standard_python3/hello_world
+gcloud app deploy
+gcloud app browse
+
+Done!
+
+LAB 3: Simulate a cloud scenario using CloudSim and run a scheduling algorithm
+that is not present in CloudSim 
+Download the initials required 
+https://www.oracle.com/java/technologies/downloads/ -- jdk
+https://download.cnet.com/java-runtime-environment-jre/3000-2213_4-10009607.html -- jre
+https://github.com/Cloudslab/cloudsim/releases -- cloudsim
+https://www.eclipse.org/downloads/ -- eclipse
+https://github.com/suyash-more/Cloud-Computing-Projects -- Source repository
+INstall cloudsim eclipse
+New – java project – new package –custom_package—right click on src – show in – file explorer 
+Copy paste all the files in the src folder reload the eclipse 
+Right click on main project – right click build path –configure build path – add external jars –select both cloudsim—run as java application 
+Find sjf_scheduler file click ok
+ 
+
+LAB 4 : Find a procedure to transfer the files from one virtual
+machine to another virtual machine
+
+1)create 2 vms 
+2)prefernces – network – add a nat network
+3)go to settings of both the vms –network—attach to –nat network –
+4)start the vms
+5)ifconfig in vm1
+Ping [ip of vm2]
+Stop
+
+Create file
+Touch abc.txt
+Cat abc.txt
+Nano abc.txt
+
+Scp transfer.txt vagrant@10...[]:/home/vagrant
+Enter password
+
+LAB 5: 
+Using AWS:
+Login to Aws
+Create a instance
+Create new key pair
+Connect to instance
+RDP client
+Download desktop app
+Upload key  file .pem file
+Enter password in that app
+Connect 
+Done!
+
