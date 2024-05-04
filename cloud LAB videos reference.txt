@@ -1,0 +1,24 @@
+﻿Cloud lab reference videos
+
+
+
+
+1. Use GAE launcher to launch the web applications.
+https://www.youtube.com/watch?v=uXPZsNA96Rw&t=21s&pp=ygUwVXNlIEdBRSBsYXVuY2hlciB0byBsYXVuY2ggdGhlIHdlYiBhcHBsaWNhdGlvbnMu
+
+
+2.  Simulate a cloud scenario using CloudSim and run a scheduling algorithm that is not present in CloudSim.
+https://www.youtube.com/watch?v=6-2y3yA2w3M&pp=ygVpIFNpbXVsYXRlIGEgY2xvdWQgc2NlbmFyaW8gdXNpbmcgQ2xvdWRTaW0gYW5kIHJ1biBhIHNjaGVkdWxpbmcgYWxnb3JpdGhtIHRoYXQgaXMgbm90IHByZXNlbnQgaW4gQ2xvdWRTaW0u
+
+
+3. Find a procedure to transfer the files from one virtual machine to another virtual machine.
+https://www.youtube.com/watch?v=0MaS0nZCTZc&pp=ygVbRmluZCBhIHByb2NlZHVyZSB0byB0cmFuc2ZlciB0aGUgZmlsZXMgZnJvbSBvbmUgdmlydHVhbCBtYWNoaW5lIHRvIGFub3RoZXIgdmlydHVhbCBtYWNoaW5lLg%3D%3D
+
+
+4. Find a procedure to launch virtual machine using trystack (Online Openstack Demo Version)
+
+
+
+
+5. Paas environment
+https://www.youtube.com/watch?v=12Thoc5MsF8&pp=ygU6RGVzaWduIGFuZCBkZXBsb3kgYSB3ZWIgYXBwbGljYXRpb24gaW4gYSBQYWFTIGVudmlyb25tZW50Lg%3D%3D
